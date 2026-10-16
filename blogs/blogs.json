@@ -1,0 +1,14 @@
+{
+  "repo": "periodic-labs",
+  "feeds": [
+    {
+      "source": "https://periodic.com/news",
+      "feed_url": "https://periodic.com/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
